@@ -1,7 +1,11 @@
 # Electronic-Resources
-Self-Finding Learning Resources and Application notes [Not 100% correct and accurate, Feel free to PR to add/correct]
+This is living document, Included Self-Finding Learning Resources and Application notes [Not 100% correct and accurate, Feel free to PR to add/correct]
 
-### To boost the practical knowledge <br>
+- [x] Create Overoll Electronic Resources checklist
+- [ ] Add Description
+- [ ] Add Images
+- [ ] Link mostly used compenent Datasheets to relevant component
+### To boost the practical knowledge I hope below are useful <br>
 
 Most Commonly used Componenets, Circuits in Electronic Systems <br>
 
@@ -55,8 +59,9 @@ Componenets List
 | Ultra Sonic Sensor | - |
 | Strain Gauge | - |
 | Encoders| - |
+| Non Invasive Current sensor | YHDC SCT-013-XXX |
+| Voltage sensor | ZMPT101B |
 | Flex sensor | - |
-
 
 
  Simple to Advance Circuits
@@ -102,7 +107,11 @@ Micro Controllers
 | PIC | - |
 | Pine Board | - |
 
-
+Communication Protocols <br>
+ - [I2C](https://www.analog.com/en/analog-dialogue/articles/i2c-communication-protocol-understanding-i2c-primer-pmbus-and-smbus.html)
+ - [UART](https://www.analog.com/en/analog-dialogue/articles/uart-a-hardware-communication-protocol.html#:~:text=By%20definition%2C%20UART%20is%20a,going%20to%20the%20receiving%20end.)  (Async - should match Master & Slave with baudrate) 
+ - SPI
+ - Onewire
 
 Test Equipments <br>
  - Multimeter
@@ -113,18 +122,26 @@ Test Equipments <br>
  - Fluke Meter
  - Spectrum Analyzer
 
+## Electronic Circuit Troubleshooting<br>
+- ESD (Electro Static Discharge) - Main issue for no power on laptop
+- Components wearout check
+- Overheating
+- Short circuit due to conductive material on PCB
+
 
 ## Youtube Channels<br>
-https://www.youtube.com/user/AnalogDevicesInc     <br>
-https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ    <br>
-https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA    <br>
+[Analog Devices](https://www.youtube.com/user/AnalogDevicesInc)     <br>
+[GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)    <br>
+[ElectroBOOM](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)    <br>
+[EEVblog](https://www.youtube.com/eevblog) <br>
+[RealPars](https://www.youtube.com/c/realpars) <br>
 
 
-## Weblinks <br>
-https://www.ti.com/ <br>
-https://www.powerelectronicsnews.com/ <br>
-https://www.eetimes.com/  <br>
-https://www.analog.com/ <br>
-https://www.digikey.com/en/blog <br>
-https://www.sparkfun.com/   <br>
-https://www.seeedstudio.com/    <br>
+## Web Links <br>
+[Texas Instruments](https://www.ti.com/) <br>
+[Power Electronics News](https://www.powerelectronicsnews.com/) <br>
+[EE times](https://www.eetimes.com/)  <br>
+[Analog Devices](https://www.analog.com/) <br>
+[Digikey](https://www.digikey.com/en/blog) <br>
+[Sparkfun](https://www.sparkfun.com/)   <br>
+[Seeedstudio](https://www.seeedstudio.com/)    <br>
