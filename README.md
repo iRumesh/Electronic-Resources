@@ -79,10 +79,10 @@ Componenets List
 | Cuk Converter | - |
 | Resonant Converter | - |
 | Schmitt Trigger | Noise Cancellation |
-| Battery Charging(TP4056ircuit (Constant Current or Constant Voltage) |
+| Battery Charging(TP4056/TP4057/MCP73831/2 Circuit (Constant Current or Constant Voltage) |
 | Buffer Circuit/IC | - |
 | Voltage Follower  - |
-| Volatage Regulator | IC 7M317 |
+| Voltage Regulator | IC 7M317 |
 | Logical Gate Circuits | 4 gates single IC AND(CD4081), OR(CD4071) |
 | Multi Vibrator Circuit | Astable(no input), monstable(trigger), bistable(SR FF) |
 | Sample and Hold Circuit | DAC |
@@ -145,3 +145,4 @@ Test Equipments <br>
 [Digikey](https://www.digikey.com/en/blog) <br>
 [Sparkfun](https://www.sparkfun.com/)   <br>
 [Seeedstudio](https://www.seeedstudio.com/)    <br>
+[randomtutorials](https://randomnerdtutorials.com/)    <br>
