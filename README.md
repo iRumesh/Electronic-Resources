@@ -13,10 +13,10 @@ Componenets List
 
 | Componenet| Description/Usage/Consideration |
 | ----------- | ----------- |
-| Resistor | - |
+| Resistor | Current Limiting/Burden Resistance.... |
 | Inductor | (Design Consideration - DC resistance, Parallel Parasitic Capacitance) |
 | Capacitor | (Design Consideration - Size, ESR, ESL values) (latest Technnology: Super Capacitor: Replacement for batteries!|
-| Diodes (Zener, Schottky) | - |
+| Diodes (Zener, Schottky) | Generally one way current flow(AC to DC), voltage regulator, Free wheel energy... |
 | Transistor (Signal or Power) | (BJT - operated by current, FET - operated by voltage) |
 | MOSFET | Conduction losses, switching losses (Latest - GaN Based)
 | IGBT | Pros of BJT and MOSFET combined |
@@ -28,10 +28,10 @@ Componenets List
 | Transformers | (step up & step down voltage and/or current) |
 | Fuses | Protection of Circuits |
 | LDR (Light Dependent Resistors) | - |
-| Optocouplers/Photocouplers | - |
-| Relays & Relay Drivers | - |
-| Mechanical Switches | - |
-| Push Buttons | - |
+| Optocouplers/Photocouplers | Provide Isolation between two circuits |
+| Relays & Relay Drivers | Switching, Making & Breaking the circuit with coil element inside|
+| Mechanical Switches | Making & Breaking the circuit |
+| Push Buttons | Making & Breaking the circuit |
 | RTC(Real Time Clock) | - |
 | LCD | (16x2), (16x4) can use I2C module to reduce pin count to integrate with uC |
 | Potentimeter | - |
@@ -43,10 +43,10 @@ Componenets List
  
 | Componenet| Description/Usage/Consideration |
 | ----------- | ----------- |
-| PIR | - |
-| GPS |  |
+| PIR | Range detection |
+| GPS | Integrating Location/GPS services in project |
 | Proximity | - |
-| Level Sensor | - |
+| Level Sensor | Level Indication |
 | Optical Sensors | - |
 | IR sensor | - |
 | Laser Sensor| - |
@@ -56,9 +56,9 @@ Componenets List
 | Hall effect Sensor | - |
 | Moisture Sensor | - |
 | Color Detection Sensor |  |
-| Ultra Sonic Sensor | - |
+| Ultra Sonic Sensor | Range detection |
 | Strain Gauge | - |
-| Encoders| - |
+| Encoders| RPM monitor |
 | Non Invasive Current sensor | YHDC SCT-013-XXX |
 | Voltage sensor | ZMPT101B |
 | Flex sensor | - |
@@ -73,16 +73,16 @@ Componenets List
 | Rectifier | AC to DC (4 diode with Capacitor)|
 | Invereter (Voltage Source Inverter/Current Source Inverter) | DC to AC (H bridge) |
 | Volatge Regulators | With Zener Diode, 5-15V to 3.3V Converter (LD1117V33) |
-| Buck Converter | - |
-| Boost Converter | - |
+| Buck Converter | HV - LV |
+| Boost Converter | LV - HV |
 | Buck-Boost Converter | - |
-| Flyback Converter | - |
+| Flyback Converter | Isolation |
 | Cuk Converter | - |
-| Resonant Converter | - |
+| Resonant Converter | To reduce switching losses |
 | Schmitt Trigger | Noise Cancellation |
 | Battery Charging(TP4056/TP4057/MCP73831/2 Circuit (Constant Current or Constant Voltage) |
 | Buffer Circuit/IC | - |
-| Voltage Follower  - |
+| Voltage Follower  | - |
 | Voltage Regulator | IC 7M317 |
 | Voltage Level Shifter (Uni/Bi Directional) | https://circuitdigest.com/tutorial/bi-directional-logic-level-controller-using-mosfet |
 | Logical Gate Circuits | 4 gates single IC AND(CD4081), OR(CD4071) |
