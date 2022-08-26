@@ -84,6 +84,7 @@ Componenets List
 | Buffer Circuit/IC | - |
 | Voltage Follower  - |
 | Voltage Regulator | IC 7M317 |
+| Voltage Level Shifter (Uni/Bi Directional) | https://circuitdigest.com/tutorial/bi-directional-logic-level-controller-using-mosfet |
 | Logical Gate Circuits | 4 gates single IC AND(CD4081), OR(CD4071) |
 | Multi Vibrator Circuit | Astable(no input), monstable(trigger), bistable(SR FF) |
 | Sample and Hold Circuit | DAC |
