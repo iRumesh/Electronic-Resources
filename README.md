@@ -33,7 +33,7 @@ Componenets List
 | Mechanical Switches | - |
 | Push Buttons | - |
 | RTC(Real Time Clock) | - |
-| LCD | - |
+| LCD | (16x2), (16x4) can use I2C module to reduce pin count to integrate with uC |
 | Potentimeter | - |
 | Shift Register Modules(74HC16) | To increase I/O in Micro controller (Serial in Parallel Out or Parallel in Serial Out) |
  
@@ -72,6 +72,7 @@ Componenets List
 | Wheatstone Bridge & Kelvin Bridge | - |
 | Rectifier | AC to DC (4 diode with Capacitor)|
 | Invereter (Voltage Source Inverter/Current Source Inverter) | DC to AC (H bridge) |
+| Volatge Regulators | With Zener Diode, 5-15V to 3.3V Converter (LD1117V33) |
 | Buck Converter | - |
 | Boost Converter | - |
 | Buck-Boost Converter | - |
