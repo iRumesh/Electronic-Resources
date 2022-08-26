@@ -15,7 +15,7 @@ Componenets List
 | ----------- | ----------- |
 | Resistor | - |
 | Inductor | (Design Consideration - DC resistance, Parallel Parasitic Capacitance) |
-| Capacitor | (Design Consideration - Size, ESR, ESL values) |
+| Capacitor | (Design Consideration - Size, ESR, ESL values) (latest Technnology: Super Capacitor: Replacement for batteries!|
 | Diodes (Zener, Schottky) | - |
 | Transistor (Signal or Power) | (BJT - operated by current, FET - operated by voltage) |
 | MOSFET | Conduction losses, switching losses (Latest - GaN Based)
