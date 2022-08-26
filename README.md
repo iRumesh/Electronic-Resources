@@ -24,7 +24,7 @@ Componenets List
 | TRIAC | - |
 | DIAC | - |
 | OPAMP (IC741) | (used as comparator, regulator, amplifier, filter, integrator, differentiator, wave generator and many more) |
-| Timer IC (NE555) | (generate clock signal, schmitt trigger can made, oscillator adjustment) |
+| Timer IC (NE555) | (generate clock signal, schmitt trigger can made, oscillator adjustment) <br> http://www.555-timer-circuits.com/ |
 | Transformers | (step up & step down voltage and/or current) |
 | Fuses | Protection of Circuits |
 | LDR (Light Dependent Resistors) | - |
