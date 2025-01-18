@@ -132,6 +132,7 @@ Test Equipments <br>
 
 
 ## Youtube Channels<br>
+[That Project](https://www.youtube.com/@ThatProject)     <br>
 [Analog Devices](https://www.youtube.com/user/AnalogDevicesInc)     <br>
 [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)    <br>
 [ElectroBOOM](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)    <br>
@@ -148,3 +149,19 @@ Test Equipments <br>
 [Sparkfun](https://www.sparkfun.com/)   <br>
 [Seeedstudio](https://www.seeedstudio.com/)    <br>
 [randomtutorials](https://randomnerdtutorials.com/)    <br>
+
+
+
+## Shops <br>
+[Lilygo](https://lilygo.cc/) <br>
+[M5Stack](https://m5stack.com/) <br>
+[Digikey](https://www.digikey.com/en/blog) <br>
+[Sparkfun](https://www.sparkfun.com/)   <br>
+[Seeedstudio](https://www.seeedstudio.com/)    <br>
+
+
+
+
+
+
+
